@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bxnRAgQwUHC6hfzBjdOGszsH0Hy1h0XBlB0W5mFI0dZl3e0OJRV0gfPEBwBGfqFENU+He4GxMJh5HVNaMSJGxw==",
+  "success": true,
+  "projectFilePath": "/Users/borakasmer/Projects/GoService/GoService.csproj",
+  "expectedPackageFiles": [
+    "/Users/borakasmer/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/swashbuckle.aspnetcore.annotations/5.5.1/swashbuckle.aspnetcore.annotations.5.5.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/swashbuckle.aspnetcore.swagger/5.5.1/swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.5.1/swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.1/swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/borakasmer/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

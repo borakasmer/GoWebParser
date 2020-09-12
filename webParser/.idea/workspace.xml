@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4ce8c1-8d82-4b19-addc-3cb486791616" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.15" />
+  <component name="ProjectId" id="1h5N1pExHPWQQPufDWUEucU95ud" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbitMQ" />
+      <recent name="$PROJECT_DIR$/shared" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build webParser.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="webParser" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/webParser.go" />
+      <package value="webParser" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build webParser.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1496" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599503125960">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1496" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599503125960" />
+    <state x="-1232" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599507015345">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1232" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599507015345" />
+    <state width="718" height="466" key="DebuggerActiveHint" timestamp="1599673701359">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="718" height="466" key="DebuggerActiveHint/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599673701359" />
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom" timestamp="1599687985629">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599687985629" />
+    <state width="1750" height="216" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1599428178265" />
+    <state width="1878" height="234" key="GridCell.Tab.0.center" timestamp="1599687985628">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599687985628" />
+    <state width="1750" height="216" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1599428178225" />
+    <state width="1878" height="234" key="GridCell.Tab.0.left" timestamp="1599687985628">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599687985628" />
+    <state width="1750" height="216" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1599428178224" />
+    <state width="1878" height="234" key="GridCell.Tab.0.right" timestamp="1599687985628">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599687985628" />
+    <state width="1750" height="216" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1599428178226" />
+    <state width="1878" height="137" key="GridCell.Tab.1.bottom" timestamp="1599674415329">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="137" key="GridCell.Tab.1.bottom/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599674415329" />
+    <state width="1878" height="137" key="GridCell.Tab.1.center" timestamp="1599674415329">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="137" key="GridCell.Tab.1.center/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599674415329" />
+    <state width="1878" height="137" key="GridCell.Tab.1.left" timestamp="1599674415328">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="137" key="GridCell.Tab.1.left/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599674415328" />
+    <state width="1878" height="137" key="GridCell.Tab.1.right" timestamp="1599674415329">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="137" key="GridCell.Tab.1.right/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599674415329" />
+    <state x="-1711" y="106" key="SettingsEditor" timestamp="1599634857937">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1711" y="106" key="SettingsEditor/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599634857937" />
+    <state width="960" height="528" key="XDebugger.FullValuePopup" timestamp="1599602646171">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="960" height="528" key="XDebugger.FullValuePopup/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599602646171" />
+    <state x="-1295" y="258" key="search.everywhere.popup" timestamp="1599302932258">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="258" key="search.everywhere.popup/0.23.1792.1097/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1599302932258" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="s.document" language="go" />
+        <watch expression="d.Body" />
+        <watch expression="`INSERT INTO [dbo].[Products](Name,Price,IsActive) VALUES ($1,$2,$3)`,product.Name,product.Price,1" language="go" />
+        <watch expression="err2" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
